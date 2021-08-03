@@ -1,0 +1,67 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "Road and Safety Facts and Figures",
+      "path": "RSFF.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Area",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Population in 2018[25]",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "GDP per capita in 2018[26]",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Population density",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Vehicle ownership",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Total Road Deaths in 2018[30]",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Road deaths",
+            "type": "integer",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "Ella-data-package",
+  "title": "Road Safety Facts and Fugures",
+  "contributors": [
+    {
+      "title": "Emmanuella",
+      "role": "author"
+    }
+  ]
+}
