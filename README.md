@@ -52,7 +52,7 @@ data3.insert(1,'Year',2018 ,True)
 new_data= data5.sort_values( by ='Road deaths' )
 new_data
 
-#Bar graph representation of  Average Population Density per Country
+#Bar graph representation of  Average Population Density per Country Chart1
 
 style.use('Solarize_Light2')
 nn.groupby('Country')['Population density'].mean().sort_values(ascending = False).plot(kind ='bar',title= ' Average Population Density per Country')
@@ -62,7 +62,7 @@ plt.legend()
 plt.savefig('Chart1.png', dpi =300 ,bbox_inches ='tight')
 plt.show()
 
-#Bar graph representation of  Average Road deaths  per Country
+#Bar graph representation of  Average Road deaths  per Country Chart2
 
 style.use('ggplot')
 nn.groupby('Country')['Road deaths'].mean().sort_values(ascending = False).plot(kind ='bar',title= ' Average Road deaths per Country')
@@ -72,7 +72,7 @@ plt.legend()
 plt.savefig('Chart2.png', dpi =300 ,bbox_inches ='tight')
 plt.show()
 
-#Pie chart visualizationof  Average Vehicle ownership per Country
+#Pie chart visualizationof  Average Vehicle ownership per Country Chart3
 
 new_data.groupby('Country')['Vehicle ownership'].mean().sort_values(ascending = False).plot(kind = 'pie',title= 'Average Vehicle ownership per Country')
 plt.xlabel('Country')
