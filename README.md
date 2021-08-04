@@ -83,6 +83,7 @@ plt.show()
 
 ### Charts
 
+![Chart1](https://user-images.githubusercontent.com/42813187/128142170-08e28a18-c310-4750-8cfd-e4342ffd067d.png)
 
 ![Chart2](https://user-images.githubusercontent.com/42813187/128141280-9caf36cc-bf06-4bd0-bd31-3da9e669e9a4.png)
-[Chart2](Chart1.
+[Chart2](
