@@ -1,17 +1,22 @@
 
 # Data-Wrangling-Challenge
-This  project is about  normalised version of the European union Road Safety Facts and Figures, year is assumed to be 2018
-The project entails a number of data manupulations
-Some columns of the frame were exempted
-A few illustrative charts are included
-Data used for the project was sourced from the European union Road Safety Facts and Figures
-link to data source https://en.wikipedia.org/wiki/Road_safety_in_Europe`
+This   project  is  the   normalised version of the European union Road Safety Facts and Figures,
+year is assumed to be 2018.
+The project entails a number of data manupulations.
+Some columns of the frame were exempted.
+A few illustrative charts are included.
+Data used for the project was sourced from the European union Road Safety Facts and Figures.
+link to data source [Wikipedia] (https://en.wikipedia.org/wiki/Road_safety_in_Europe)
 
+## Requirements
+*The  project  was built using  Python script.*
 
-The project was built using  Python script
 The project requires the folowing modules:
+
 Pandas
+
 Matplotlib
+
 Numpy(optional)
 
 
@@ -74,4 +79,4 @@ plt.ylabel('Vehicle ownership')
 plt.savefig('Chart3.png', dpi=300 , bbox_inches ='tight')
 plt.show()
 ```
-<addr>
+
