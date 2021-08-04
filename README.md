@@ -81,3 +81,8 @@ plt.savefig('Chart3.png', dpi=300 , bbox_inches ='tight')
 plt.show()
 ```
 
+### Charts
+
+
+![Chart2](https://user-images.githubusercontent.com/42813187/128141280-9caf36cc-bf06-4bd0-bd31-3da9e669e9a4.png)
+[Chart2](Chart1.
