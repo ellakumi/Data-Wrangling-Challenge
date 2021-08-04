@@ -83,8 +83,9 @@ plt.show()
 
 ### Charts
 
-![Chart1](https://user-images.githubusercontent.com/42813187/128142170-08e28a18-c310-4750-8cfd-e4342ffd067d.png>
 
-![Chart2](https://user-images.githubusercontent.com/42813187/128141280-9caf36cc-bf06-4bd0-bd31-3da9e669e9a4.png)
+![Chart1](https://user-images.githubusercontent.com/42813187/128142170-08e28a18-c310-4750-8cfd-e4342ffd067d.png>
+![Chart2](https://user-images.githubusercontent.com/42813187/128145120-43463c5e-909e-407b-8f78-bdf0d4396362.png)
+
 ![Chart3](https://user-images.githubusercontent.com/42813187/128142406-f6dfa92c-6a7c-4d91-a5a3-091c048ab3f3.png)
 
